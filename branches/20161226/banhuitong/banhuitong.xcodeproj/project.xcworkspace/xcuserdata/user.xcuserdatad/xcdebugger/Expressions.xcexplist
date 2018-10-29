@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ColumnChartView setList:]:ColumnChartView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;%ld%ld&quot;, year, month]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GetAccSurveyOperation delegateDispatch]:GetAccSurveyOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JxIncomeController callbackWithCode:andWithData:]:JxIncomeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray ">
+            </PersistentString>
+            <PersistentString
+               value = "[self.dataArray lastObject] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountController callbackWithCode:andWithData:]:MyAccountController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[Utils nf3] stringFromNumber:[((NSMutableDictionary*)data) objectForKey:@&quot;receivingPrincipal&quot;]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GetCPDataOperation delegateDispatch]:GetCPDataOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[signContent objectForKey:@&quot;sign&quot;] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RepayPlanController tableView:cellForRowAtIndexPath:]:RepayPlanController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__34-[BaseViewController onBackAction]_block_invoke:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EntDetailController viewDidLoad]:EntDetailController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "date timeIntervalSince1970]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxGetMobileCodeWhenBindCardOperation start]:JxGetMobileCodeWhenBindCardOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[IndexController handleScroll:]:IndexController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[UIScreen mainScreen] bounds].size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController getJxStatus]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[(NSString*)[self.jxUserInfo objectForKey:@&quot;isPwdSet&quot;] boolValue]">
+            </PersistentString>
+            <PersistentString
+               value = "(NSString*)false">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ApplyCaController callbackWithCode:andWithData:]:ApplyCaController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[dic objectForKey:@&quot;unpaidAmt&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[NSDecimalNumber decimalNumberWithString:[dic objectForKey:@&quot;unpaidAmt&quot;]] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController callbackWithCode:andWithData:]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+            <PersistentString
+               value = "self.jxUserInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ColumnChartView drawRect:]:ColumnChartView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JxBindCardController sendMobileCode:]:JxBindCardController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JxSetTradePwdController validate]:JxSetTradePwdController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GetJxPayInfoOperation start]:GetJxPayInfoOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.headers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyZhuanController tableView:cellForRowAtIndexPath:]:MyZhuanController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSString*)[info objectForKey:@&quot;assignRate&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxGetIncomeOperation start]:JxGetIncomeOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CPController onResp:]:CPController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[MyAccountController getTotalUnpaid]:MyAccountController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CacheObject sharedInstance].survey">
+            </PersistentString>
+            <PersistentString
+               value = "[[CacheObject sharedInstance].survey objectForKey:@&quot;preReceiveAmtList&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxGetIncomeOperation checkCache]:JxGetIncomeOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.checkCache">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxSetTradePwdController next:]:JxSetTradePwdController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JxOpenAccountController sendMobileCode:]:JxOpenAccountController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[IndexController handleMaxShowTimer:]:IndexController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.scrView getContentOffset]">
+            </PersistentString>
+            <PersistentString
+               value = "SCREEN_WIDTH">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MoveView touchesBegan:withEvent:]:MoveView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(int)(img.accessibilityFrame.origin.y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController getJxUserInfo]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxIncomeController tableView:cellForRowAtIndexPath:]:JxIncomeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[Utils nf2] stringFromNumber:[info objectForKey:@&quot;amount&quot;]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyGongController tableView:cellForRowAtIndexPath:]:MyGongController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[Utils nf]stringFromNumber:[p1 decimalNumberByDividingBy:p2]] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IncomeController tableView:didSelectRowAtIndexPath:]:IncomeController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JxIncomeController loadDataSource]:JxIncomeController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController tableView:cellForRowAtIndexPath:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[info objectForKey:@&quot;assignAmmount&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[[Utils nf2] stringFromNumber:[info objectForKey:@&quot;assignAmmount&quot;]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JxGetMobileCodeWhenOpenAccountOperation start]:JxGetMobileCodeWhenOpenAccountOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CacheService insert:value:]:CacheService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ll">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CacheService update:value:]:CacheService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSDate date] ">
+            </PersistentString>
+            <PersistentString
+               value = "[[NSDate date] timeIntervalSince1970]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TestController RSATest]:TestController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

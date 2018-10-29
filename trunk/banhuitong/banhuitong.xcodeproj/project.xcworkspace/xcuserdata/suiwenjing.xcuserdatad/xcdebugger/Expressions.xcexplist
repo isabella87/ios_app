@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__47-[MoreController callbackWithCode:andWithData:]_block_invoke_3:MoreController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyZhuanController tableView:cellForRowAtIndexPath:]:MyZhuanController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[info objectForKey:@&quot;oriType&quot;] ">
+            </PersistentString>
+            <PersistentString
+               value = "[[info objectForKey:@&quot;flag&quot;] intValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MoreController callbackWithCode:andWithData:]:MoreController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchResult.count">
+            </PersistentString>
+            <PersistentString
+               value = "smartAlbums.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__47-[MoreController callbackWithCode:andWithData:]_block_invoke:MoreController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CustomTabBarViewController callbackWithCode:andWithData:]:CustomTabBarViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = " (NSInteger)[dic objectForKey:@&quot;amId&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "((NSString *)[dic objectForKey:@&quot;amId&quot;]) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MoreController collection]:MoreController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collection.localizedTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

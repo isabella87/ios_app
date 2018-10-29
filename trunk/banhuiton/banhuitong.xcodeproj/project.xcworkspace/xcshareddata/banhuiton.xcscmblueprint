@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "eee633d3-9f19-424a-a82e-be03de0b4261++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "eee633d3-9f19-424a-a82e-be03de0b4261++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "eee633d3-9f19-424a-a82e-be03de0b4261++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23120CA3-BB1F-4575-8583-A873C77BA4F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "eee633d3-9f19-424a-a82e-be03de0b4261++505" : "workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "banhuiton",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "banhuiton\/banhuiton.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.11.41\/svn\/app-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "eee633d3-9f19-424a-a82e-be03de0b4261++505"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CacheService search:]:CacheService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSString stringWithUTF8String:(char*)sqlite3_column_text(statement,1)]">
+            </PersistentString>
+            <PersistentString
+               value = "sqlite3_step(statement)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GetIncomeOperation start]:GetIncomeOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RepayPlanController tableView:cellForRowAtIndexPath:]:RepayPlanController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[info objectForKey:@&quot;dueTime&quot;] longValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GetIncomeOperation delegateDispatch]:GetIncomeOperation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController2 indexChanged:]:MainViewController2.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyPageViewController selectPageNotification:]:MyPageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[nameDictionary objectForKey:@&quot;index&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "controller">
+            </PersistentString>
+            <PersistentString
+               value = "[MainViewController2 setTab:tab]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController viewWillAppear:]:MainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyAccountController2 callbackWithCode:andWithData:]:MyAccountController2.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nf3">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController swipe:]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarController.selectedIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
